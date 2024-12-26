@@ -8,3 +8,4 @@ bffjh
 mizba
 taranum
 nida khan
+git revert
